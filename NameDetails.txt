@@ -1,0 +1,6 @@
+# RminiProject
+R studio mini project for VAC
+
+Name : Nisarg Ghevariya
+Reg No : RA1811003020041
+Topic : Covid 19 Analysis
